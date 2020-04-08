@@ -1,1 +1,1 @@
-# Aplicacionde practica de React
+# Aplicacion de practica en React
